@@ -9,7 +9,6 @@
             <nuxt-link to="/"><img src="../public/logo.svg" width="254" alt=""></nuxt-link>
             <ul class="flex w-[760px] justify-between items-center text-[18px] text-white">
                 <li><nuxt-link to="/">ENG <i class='bx bx-transfer-alt'></i> UZB</nuxt-link></li>
-                <li><nuxt-link to="/">RUS <i class='bx bx-transfer-alt'></i> UZB</nuxt-link></li>
                 <li><nuxt-link to="/articles">Articles</nuxt-link></li>
                 <li><nuxt-link to="/grammar">Grammar</nuxt-link></li>
                 <li><nuxt-link to="/about">About us</nuxt-link></li>
