@@ -11,7 +11,7 @@
             <div class="">
                 <div class="h-[64px] bg-white rounded-3xl flex px-[20px] mb-[20px]">
                     <img width="24" class="mr-[15px]" src="../../public/search.svg" alt="" /><input type="search"
-                        class="text-[16px] w-[100%] rounded-3xl outline-none" placeholder="Search articles here...">
+                        class="text-[16px] w-[100%] rounded-3xl outline-none border-none" placeholder="Search articles here...">
                 </div>
                 <div v-for="i of articles">
                     <nuxt-link :to="'/articles/' + i.id" class="bg-white p-[20px] gap-7 rounded-3xl hover:shadow-2xl duration-200 mb-[20px]"

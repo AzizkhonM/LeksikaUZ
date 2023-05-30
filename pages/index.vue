@@ -51,7 +51,7 @@ const playAudio = async () => {
                 ENG <i class="bx bx-transfer-alt"></i> UZB
             </div>
             <img src="../public/search.svg" alt="" />
-            <input v-model="search" class="w-[75%] h-[100%] rounded-full outline-none text-[16px]"
+            <input v-model="search" class="w-[75%] h-[100%] rounded-full outline-none border-none text-[16px]"
                 placeholder="Search words here..." type="search" />
         </form>
     </div>
