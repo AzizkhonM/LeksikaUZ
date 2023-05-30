@@ -30,7 +30,7 @@ export default defineNuxtConfig({
 
 
           meta: [{
-            name: "description", content: "FakeStore App in NuxtJS"
+            name: "description", content: "Leksika.uz App in NuxtJS"
           },
           {
             name: "author", content: "Azizkhon"
